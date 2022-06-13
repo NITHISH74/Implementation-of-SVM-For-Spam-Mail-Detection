@@ -21,7 +21,7 @@ Split the dataset into required segments.
 Predict the required output.
 ## Step 5:
 
-Run the programm.
+Run the program.
 ## Program:
 ```
 /*
