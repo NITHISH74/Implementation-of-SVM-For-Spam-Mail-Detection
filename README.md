@@ -8,11 +8,20 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Step 1:
+Import the required library packages.
+## Step 2:
 
+Import the dataset to operate on.
+## Step 3:
+
+Split the dataset into required segments.
+## Step 4:
+
+Predict the required output.
+## Step 5:
+
+Run the programm.
 ## Program:
 ```
 /*
@@ -48,7 +57,19 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+## Dataset:
+![image](https://user-images.githubusercontent.com/94164665/173334667-7551bf8a-a777-479e-8951-0820173e7638.png)
+## Dataset Head:
+![image](https://user-images.githubusercontent.com/94164665/173334773-8483e459-92ef-4d03-b94c-a6a349dfed97.png)
+
+## Dataset Information:
+![image](https://user-images.githubusercontent.com/94164665/173334841-cc2b2a12-cf6f-479f-a6e0-b50cdffd13ad.png)
+![image](https://user-images.githubusercontent.com/94164665/173334923-f5a69fd2-6c86-454c-a698-5074c57ee503.png)
+
+## Predicted array:
+![image](https://user-images.githubusercontent.com/94164665/173334997-e3956e18-b9ca-4095-8eab-15b44bab0876.png)
+## Accuracy Score:
+![image](https://user-images.githubusercontent.com/94164665/173335081-2ec47fe9-877a-41ac-8df1-45b4c28c1394.png)
 
 
 ## Result:
