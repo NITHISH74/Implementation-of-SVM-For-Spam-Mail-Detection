@@ -23,7 +23,7 @@ Predict the required output.
 
 Run the program.
 ## Program:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: NITHISHWAR S
